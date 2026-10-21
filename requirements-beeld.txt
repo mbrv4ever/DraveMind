@@ -1,0 +1,11 @@
+# Extra pakketten voor de Beeld-tab (tekst -> afbeelding).
+# Zwaar! ~enkele GB. Alleen nodig als je afbeeldingen wilt maken.
+# Installeer met: Installeer-Beeld-AI.bat
+# Let op: versies passend bij torch 2.1.2 (de nieuwste diffusers vereist
+# torch.xpu uit torch 2.4+, wat we op oudere kaarten niet gebruiken).
+diffusers==0.30.0
+transformers==4.44.2
+accelerate==0.33.0
+huggingface_hub==0.24.6
+safetensors>=0.4.2
+pillow>=10.0
