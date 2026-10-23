@@ -1,0 +1,10 @@
+# Extra pakketten voor de Beeld-tab (tekst -> afbeelding en afbeelding beschrijven).
+# Zwaar! ~enkele GB. Alleen nodig als je afbeeldingen wilt maken.
+# Installeer met: Installeer-Beeld-AI.bat
+# Veiligheidskeuring 23-10-2026: versies met de reparaties (Python 3.13, torch 2.14).
+diffusers==0.41.0
+transformers==5.20.2
+accelerate==1.15.0
+huggingface_hub==1.33.0
+safetensors==0.8.0
+pillow==13.0.0
