@@ -21,6 +21,12 @@ Heb je een **NVIDIA-videokaart** (bijvoorbeeld een GTX 1050 Ti of nieuwer)? Dan 
 > Liever zelf een snelle EXE bouwen? Na stap 3: **`Maak-DraveMind-EXE.bat`**.
 > De lichte EXE bouw je met **`Maak-DraveMind-EXE-CPU.bat`**.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveMind](https://dravenlock.nl/video/DraveMind.jpg)](https://dravenlock.nl/video/DraveMind.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveMind.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: AI · versie 1.1.1*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
